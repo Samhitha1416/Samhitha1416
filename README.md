@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samhitha Gunti  
+# 👋 Hi, I'm Gunti Samhitha   
 
 💻 **Undergraduate IT Student** | 🚀 **AI & Full-Stack Developer** | 🌍 **Open Source Enthusiast**  
 
