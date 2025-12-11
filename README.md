@@ -32,7 +32,7 @@
 - **Languages**: Python, JavaScript, HTML/CSS  
 - **Frameworks & Libraries**: React.js, TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Matplotlib  
 - **Databases**: MySQL  
-- **Tools**: Git, GitHub/GitLab, VS Code, Postman, Eclipse, Overleaf  
+- **Tools**: Git, GitHub,GitLab, VS Code, Jenkins, Docker 
 
 ---
 
@@ -51,8 +51,7 @@
 
 ## 📫 Connect with Me
 - 🔗 [LinkedIn](https://linkedin.com/in/samhitha-gunti-858824258)  
-- 🐙 [GitHub](https://github.com/samhitha1416)  
-- 💻 [HackerRank](https://www.hackerrank.com/profile/guntisamhitha16)  
+- 🐙 [GitHub](https://github.com/samhitha1416)   
 - 📧 **guntisamhitha16@gmail.com**  
 
 ---
