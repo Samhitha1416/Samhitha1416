@@ -32,7 +32,7 @@
 - **Languages**: Python, JavaScript, HTML/CSS  
 - **Frameworks & Libraries**: React.js, TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Matplotlib  
 - **Databases**: MySQL  
-- **Tools**: Git, GitHub,GitLab, VS Code, Jenkins, Docker 
+- **Tools**: Git, GitHub,GitLab, VS Code, Jenkins, Docker , PowerBI
 
 ---
 
